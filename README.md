@@ -1,5 +1,5 @@
 # graphql-everywhere
 
-List of the cool GraphQL projects
+List of cool projects/applications build with GraphQL
 
 [figma-graphql](https://github.com/braposo/figma-graphql) The reimagined Figma API (super)powered by GraphQL
